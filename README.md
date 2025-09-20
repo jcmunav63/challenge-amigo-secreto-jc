@@ -1,18 +1,18 @@
 # challenge-amigo-secreto-jc
 
-** Bienvenido **
+## Bienvenido **
 
 Proyecto del Challenge "Amigo Secreto" usando JavaScript para registrar nombres de personas y elegir una de ellas de forma aleatoria. Este es el proyecto práctico de la Etapa 1 de la Formación Oracle ONE Generación 9 (Oracle Next Education)
 
 
-** Características del Challenge "Amigo Secreto" **
+## Características del Challenge "Amigo Secreto" **
 
 Esta aplicación permite a los usuarios ingresar los nombres de algunos amigos en una lista, para luego realizar una selección aleatoria y determinar el siguiente "amigo secreto".
 
 El usuario debe agregar los nombres mediante un campo de texto y el botón gris que dice 'Añadir'. Los nombres ingresados se mostrarán en una lista visible en la página y, al finalizar, el usuario presionará el botón naranja que dice 'Sortear amigo', con lo cual se mostrará en la pantalla el nombre del 'amigo secreto' que ha sido seleccionado de forma aleatoria.
 
 
-** Detalles de funcionalidad de la aplicación **
+## Funcionalidad de la aplicación **
 
 - Agregar nombres: El usuario escribirá el nombre de un amigo en un campo de texto y lo agregará a una lista visible al hacer clic en el botón gris 'Añadir'.
 
@@ -23,11 +23,21 @@ El usuario debe agregar los nombres mediante un campo de texto y el botón gris 
 - Sorteo aleatorio: Al hacer clic en el botón naranja que dice 'Sortear amigo', se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
 
-** Descarga y ejecución **
+## Descarga y ejecución **
 
 1. Descargar el proyecto completo desde el repositorio de Github https://github.com/jcmunav63/challenge-amigo-secreto-jc.git (Presionar el botón verde 'Code' y elegir la opción 'Download ZIP'). Extraer la carpeta comprimida y copiarla a la ubicación que Ud. desee en su equipo local.
 
 2. Explore la carpeta recién extraída y ejecute el archivo *'index.html'* en el navegador de su preferencia (un navegador moderno, de preferencia Chrome, Firefox, Edge, Safari).
+
+
+## Desarrollado por
+
+Juan Carlos Muñoz
+
+[GitHub](https://github.com/jcmunav63)
+
+[LinkedIn](https://www.linkedin.com/in/juan-carlos-mu%C3%B1oz-fullstackdev/)
+
 
 ---------------------
 
