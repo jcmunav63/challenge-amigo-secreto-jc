@@ -30,7 +30,7 @@ Este proyecto sólo utiliza los lenguajes que emplean los navegadores (HTML, CSS
 
 ## Descarga y ejecución
 
-1. Descargar el proyecto completo desde el repositorio de Github [](https://github.com/jcmunav63/challenge-amigo-secreto-jc.git){:target="_blank"} (Presionar el botón verde 'Code' y elegir la opción 'Download ZIP'). Extraer la carpeta comprimida y copiarla a la ubicación que Ud. desee en su equipo local.
+1. Descargar el proyecto completo desde el repositorio de Github <a href="https://github.com/jcmunav63/challenge-amigo-secreto-jc.git" target="_blank">challenge-amigo-secreto-jc</a> (Presionar el botón verde 'Code' y elegir la opción 'Download ZIP'). Extraer la carpeta comprimida y copiarla a la ubicación que Ud. desee en su equipo local.
 
 2. Explore la carpeta recién extraída y ejecute el archivo *'index.html'* en el navegador de su preferencia (un navegador moderno, de preferencia Chrome, Firefox, Edge, Safari).
 
@@ -39,9 +39,9 @@ Este proyecto sólo utiliza los lenguajes que emplean los navegadores (HTML, CSS
 
 **Juan Carlos Muñoz**
 
-[GitHub](https://github.com/jcmunav63){:target="_blank"}
+<a href="https://github.com/jcmunav63" target="_blank">GitHub</a>
 
-[LinkedIn](https://www.linkedin.com/in/juan-carlos-mu%C3%B1oz-fullstackdev/){:target="_blank"}
+<a href="https://www.linkedin.com/in/juan-carlos-mu%C3%B1oz-fullstackdev/" target="_blank">LinkedIn</a>
 
 
 ---------------------
