@@ -57,6 +57,15 @@ function sortearAmigo() {
   resultado.innerHTML = `<li>Amigo sorteado: <strong>${sorteado}</strong></li>`;
 }
 
+function soloLetras(event) {
+  var letra = event.keyCode;
+  if ((letra > 64 && letra < 91) || (letra > 96 && letra < 123) || (letra === 8) || (letra === 32)) {
+    return true;
+  } else {
+    return false;
+  }
+}
+
 // Event listeners al cargar la página y al presionar el botón de
 // 'Añadir amigo'.
 document.addEventListener('DOMContentLoaded', () => {
