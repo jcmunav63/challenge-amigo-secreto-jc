@@ -22,10 +22,30 @@ El usuario debe agregar los nombres mediante un campo de texto y el botón gris 
 
 - Sorteo aleatorio: Al hacer clic en el botón naranja que dice 'Sortear amigo', se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
+![Interfaz de la aplicación 'Amigo secreto'](https://github.com/jcmunav63/challenge-amigo-secreto-jc/assets/pagina.png?raw=true)
+
+<div align="center">
+    <img src="/assets/pagina.png" alt="interfaz-app" width="500"  height="auto" />
+  <h3>Interfaz de la app 'Amigo secreto'</h3>
+</div>
+<br/>
+<div align="center">
+    <img src="/assets/input_amigo.png" alt="input-amigo" width="500"  height="auto" />
+  <h3>Input del nombre y botones</h3>
+</div>
+<br/>
+<div align="center">
+    <img src="/assets/lista_amigos.png" alt="lista-amigos" width="500"  height="auto" />
+  <h3>Lista de amigos</h3>
+</div>
+
 
 ## Tecnologías usadas
 
-Este proyecto sólo utiliza los lenguajes que emplean los navegadores (HTML, CSS y JavaScript). No es necesario instalar ningún software adicional.
+Este proyecto sólo utiliza los lenguajes que emplean los navegadores. No es necesario instalar ningún software adicional.
+  - HTML
+  - CSS
+  - JavaScript
 
 
 ## Descarga y ejecución
