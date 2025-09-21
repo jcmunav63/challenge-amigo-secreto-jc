@@ -36,6 +36,11 @@ El usuario debe agregar los nombres mediante un campo de texto y el botón gris 
     <img src="/assets/lista_amigos.png" alt="lista-amigos" width="500"  height="auto" />
   <p>Lista de amigos</p>
 </div>
+<br/>
+<div align="center">
+    <img src="/assets/mostrar_sorteado.png" alt="mostrar-sorteado" width="500"  height="auto" />
+  <p>Amigo sorteado</p>
+</div>
 
 
 ## Tecnologías usadas
