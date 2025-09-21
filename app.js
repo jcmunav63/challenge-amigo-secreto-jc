@@ -46,7 +46,15 @@ function mostrarAmigos() {
 }
 
 function sortearAmigo() {
-  console.log('Función pendiente');
+  if (listaAmigos.length === 0) {
+    alert('No hay amigos para sortear. Agregue algunos amigos.');
+    return;
+  }
+
+  const indice = Math.floor(Math.random() * listaAmigos.length);
+  const sorteado = listaAmigos[indice];
+  const amigoSorteado = document.getElementById('resultado');
+  resultado.innerHTML = `<li>Amigo sorteado: <strong>${sorteado}</strong></li>`;
 }
 
 // Event listeners al cargar la página y al presionar el botón de
