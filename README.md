@@ -22,21 +22,19 @@ El usuario debe agregar los nombres mediante un campo de texto y el botón gris 
 
 - Sorteo aleatorio: Al hacer clic en el botón naranja que dice 'Sortear amigo', se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
-![Interfaz de la aplicación 'Amigo secreto'](https://github.com/jcmunav63/challenge-amigo-secreto-jc/assets/pagina.png?raw=true)
-
 <div align="center">
     <img src="/assets/pagina.png" alt="interfaz-app" width="500"  height="auto" />
-  <h3>Interfaz de la app 'Amigo secreto'</h3>
+  <p>Interfaz de la app 'Amigo secreto'</p>
 </div>
 <br/>
 <div align="center">
     <img src="/assets/input_amigo.png" alt="input-amigo" width="500"  height="auto" />
-  <h3>Input del nombre y botones</h3>
+  <p>Input del nombre y botones</p>
 </div>
 <br/>
 <div align="center">
     <img src="/assets/lista_amigos.png" alt="lista-amigos" width="500"  height="auto" />
-  <h3>Lista de amigos</h3>
+  <p>Lista de amigos</p>
 </div>
 
 
@@ -50,9 +48,9 @@ Este proyecto sólo utiliza los lenguajes que emplean los navegadores. No es nec
 
 ## Descarga y ejecución
 
-1. Descargar el proyecto completo desde el repositorio de Github <a href="https://github.com/jcmunav63/challenge-amigo-secreto-jc.git" target="_blank">challenge-amigo-secreto-jc</a> (Presionar el botón verde 'Code' y elegir la opción 'Download ZIP'). Extraer la carpeta comprimida y copiarla a la ubicación que Ud. desee en su equipo local.
+1. Descarga el proyecto completo desde el repositorio de Github <a href="https://github.com/jcmunav63/challenge-amigo-secreto-jc.git" target="_blank">challenge-amigo-secreto-jc</a> (Presiona el botón verde 'Code' y elige la opción 'Download ZIP'). Extrae la carpeta comprimida y copiala a la ubicación que desees en tu equipo local.
 
-2. Explore la carpeta recién extraída y ejecute el archivo *'index.html'* en el navegador de su preferencia (un navegador moderno, de preferencia Chrome, Firefox, Edge, Safari).
+2. Explora la carpeta recién extraída y ejecuta el archivo *'index.html'* en el navegador de tu preferencia (un navegador moderno, de preferencia Chrome, Firefox, Edge o Safari).
 
 
 ## Desarrollado por
